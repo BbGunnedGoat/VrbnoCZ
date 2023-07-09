@@ -25,8 +25,8 @@ list.classList.add('navbar-nav');
 
 const items = [
   { text: 'Domů', href: 'index.html' },
-  { text: 'Historie', href: '#' },
-  { text: 'Demografie', href: '#' },
+  { text: 'Historie', href: 'historie.html' },
+  { text: 'Demografie', href: 'demografie.html' },
   { text: 'Fotografie', href: '#' },
   { text: 'Firmy', href: '#' },
   { text: 'Vaše články', href: '#' },
